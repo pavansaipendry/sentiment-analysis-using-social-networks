@@ -1,4 +1,4 @@
-sentiment-analysis-using-social-networks
+Sentiment-analysis-using-social-networks
 The project finds the emotion in the given text. It takes input in a text/sentence format through the User or through Twitter API.
 
 NLP Emotion Algorithm
